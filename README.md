@@ -1,8 +1,8 @@
 # Electricity_Load_Balance
 
----
 
-````markdown
+
+
 # ☀️ SolarSize Nigeria
 
 **SolarSize Nigeria** is an interactive Streamlit web app designed to help Nigerian households and small businesses calculate their daily energy consumption, size a solar power system accurately, optimize load based on budget and priority, and find local vendors.
