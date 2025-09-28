@@ -30,8 +30,7 @@
 
 ## 🖥️ Live Demo
 
-🌐 [View Deployed App on Streamlit Cloud](https://your-streamlit-app-link.streamlit.app)  
-> Replace the link above with your actual Streamlit Cloud URL after deployment.
+🌐 [View Deployed App on Streamlit Cloud](https://solar-size.streamlit.app/)
 
 ---
 
@@ -133,15 +132,4 @@ Built by [God’spower Amaha](mailto:amahagodspower@gmail.com)
 
 This project is open-source and free to use under the MIT License.
 
-````
-
----
-
-## 📌 Quick Tips
-
-- After adding this file to your project folder, don’t forget to:
-```bash
-git add README.md
-git commit -m "Add README file"
-git push
 ````
