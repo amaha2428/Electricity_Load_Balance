@@ -132,4 +132,3 @@ Built by [God’spower Amaha](mailto:amahagodspower@gmail.com)
 
 This project is open-source and free to use under the MIT License.
 
-````
